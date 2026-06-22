@@ -44,9 +44,11 @@ Once all windows are running, paste these commands into your **Git Terminal (Win
 # 1. Log a live system bug tracking event
 git commit --allow-empty -m "bug: checkout payment page button crashes on mobile devices with severity 4"
 git push origin main
-
+```
 ![4.](image-3.png)
 ![alt text](image-5.png)
+
+```bash
 # 2. Trigger the AI Agent to design a full 3-Week startup product roadmap
 git commit --allow-empty -m "brainstorm: smart wearable ring that alerts users when their posture is incorrect"
 git push origin main
