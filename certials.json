@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "euphoric-axiom-499116-b1",
+  "private_key_id": "afa3791a4b1aa9c669adeafa3016099d8da0d7b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3IAZDxKivIkZX\nqBWwVikb3zasFqZjPn+MuTHJdQNTnGOfaUuNB0blZkl+kAPyBZO38AocQrl2QjFl\nIAk5Gpm4rZpaLOGhScAWjHe9s6HgrDhkuJMNMUZAjjiIjrstOWAJBRGDK/A5s3Tc\nJ1bo9WJr3c6FWgDcgE/uO3CEhEw1pM600jcXsnwn8dBhBwkjC6po9oocQXXY+OAI\nSWJ1O6qyWNr+5c0Jwg9mJXIGvjicqzh9L/ZXk555TWm70lAJU2RReUY6nyRdJAc1\nTi6UnEk50Imt6mgolCcocuRSBJB7qSxT3GxbDtulYIav1H90tNHcmNYpeWqxJ5fz\njplEHhbvAgMBAAECggEAHFRJc9FoERPZ0vSvSkTB/kxVPmEQo3jHLaN2tsYx2gzv\nAnm9FNej2Zgt1XT9D0Nam1F4lu+hllBeKNlAZAOf9UhyAPJBg3yPyU04tvGjoMiz\nvq0pHpjZV+JIj6OZBEGEgFC26VZyRtLiyK4TTV2suKgrK0kFqhb1hpLOcMmwqnmN\nxR9gXUwJ2QLW467dXj1kLD9S21xzGJE6DOoBVx1K4wvhQreevzvmPQNr9uTAR9da\np0u+DD4kV7YuNWvivJwZs2A7i/Rq7BePkZluDy35i++W8wxVSas4b7ydQ9WeEE/G\nKA6IAzD0cEzEBPvSuGQg+SPS3AU1PMsI1sCSvtffXQKBgQDqtz5vU9skUBeNuqHI\nP+svqTKx3ASznegvVDhdkdEKdlyOO7QIHygnEJJPqsy5rb+njZ8TPCqui41TR+U6\ntl9Gzj2MLnwJzdBrSBPXctmUjJgazdkLATmAxriPgtd+g6a8/h44Yt2POGO2XS6L\nRAPm6r+zcit9OPVI91Z1bOYqXQKBgQDHuyPb2OPGdqJfEZBd9dSuKvPbAtvZZb4e\nbMiVDUP3uwnJ0x4jVLY5+HxLv8CU5hEJp1PZONJa4UavtPSxOCrJdH0juk1GWzKk\nCmRaUsIErzY2xz1aoO8bN0SqODuas2vUlIkjRgCMsaNOWnReqkzd7x0YxXfWKdnD\n3I7C20FpuwKBgQCyjUl6qSD449C3KXWu/yjrbdw5vzT4arRZZMkoLSgHvHi2Xqaa\n0xDZftq+riDlU06LqMmNeWTCuTh+VSAFZPzfwT7C6A3F64KUShWF/UGVpsqDAXsN\nyxWyZ/m4eoFyJbZu6SWWIWeIbw4ziXlByjDptkS0vrJkpTK7GiT0WS5SpQKBgDvB\nIkZIykR7A7L7lzx1Kq78zL4OSeXtiYaitxPYxyfbfl8yWUbqtiX70Hv9H0ms1xYT\nSIOpe02TLkmtErPegPaKclH5D9tnt2vabBGVxtQN82NKEnIFyeNTkqh2cGalHTKZ\nSboS3GE7WAc+CqizvJF9UzAxC9w34x2048UqQZS3AoGBAKlyawT9SUQeDi2OjoeP\nU7A9ma0K7xDadIldVUpbU4h+4bjrFmHMyfpifWNeralPi32W/mOBIkQVC7TQqZIG\nWqOakVNeza/6luSOnTVyd9s1OF/ckjVCti3R6ceL7CuQ4WH8EQ8tGFdCG8iT3A6d\n2jcc0oFNzbQKvt/HCsf1ZXNy\n-----END PRIVATE KEY-----\n",
+  "client_email": "gitops-bot@euphoric-axiom-499116-b1.iam.gserviceaccount.com",
+  "client_id": "105062960371960397942",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gitops-bot%40euphoric-axiom-499116-b1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
